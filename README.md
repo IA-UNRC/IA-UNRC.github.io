@@ -5,6 +5,7 @@ Este es el sitio principal de la diplomatura en Inteligencia Artificial dictada 
 
 Aquí puede encontrar información de la diplomatura, así como diferentes materiales que serán agregados a medidas que se desarrolle la propuesta.
 
+La Inteligencia Artificial como tal nació con los trabajos pioneros de Alan Turing (en teoría de la computación), Warren McCulloch y Walter Pitts (los primeros modelos de redes neuronales), y Marvin Minsky (creación de las primeras redes neuronales), entre otros. Desde ese momento hasta la actualidad diferentes tecnologías han sido desarrolladas, y utilizadas, para simular la inteligencia humana por medio de computadoras. En los últimos años estas técnicas han tenido un crecimiento notable de su popularidad y uso, a tal punto que la utilización de herramientas de IA se ha vuelto una práctica común en la sociedad actual. La presente propuesta pretende ofrecer una formación en las técnicas y fundamentos de Inteligencia Artificial, de tal forma que los estudiantes de la misma sean capaces de usar estas tecnologías en el ambito de la programación, así como también entender, y debatir, sobre sus alcances y limitaciones.
 
 ### Titulo
 #### Diplomado Superior en Inteligencia Artificial
@@ -12,7 +13,7 @@ Aquí puede encontrar información de la diplomatura, así como diferentes mater
 ### Duración
 Consta de un total de 200 horas de cursado (20 créditos), 180 horas destinada a los cursos y 20 horas dedicadas al Trabajo Final.  Hay cinco cursos obligatorios y dos cursos optativos. La modalidad de la Diplomatura es principalmente virtual sincrónica con algunos encuentros presenciales físicos a definir durante el cursado.
 
-Los cursos  se dictarán entre septiembre del 2024 y julio 2024 preferentemente virtual en diás a acordar.  
+Los cursos  se dictarán entre septiembre del 2024 y julio 2024, preferentemente de forma virtual, los dias de cursados se acordarán con los docentes.  
 
 ### Inicio de la diplomatura
 
@@ -23,15 +24,16 @@ Los cursos  se dictarán entre septiembre del 2024 y julio 2024 preferentemente 
 Para preinscribirse en la diplomatura se debe completar el siguiente formulario: [preinscripción](https://forms.gle/iCCevw9kLqiPduoJA)
 
 ## Objetivos
-Los objetivos de la diplomatura son que los estudiantes de la misma:
+Los objetivos de la diplomatura son proveer una formación en las técnicas y fundamentos de la Inteligencia Artificial, así como sus 
+alcances, posibles usos, y limitaciones. Se pretende que los estudiantes:
 
-* Comprendan las nociones básicas de la IA y sus aplicaciones
-* Conozcan las bases para el pre-procesamiento y análisis de conjuntos de datos
-* Conozcan y experimenten con modelos, algoritmos, técnicas y herramientas de IA
-* Diseñen soluciones y/o desarrolle pruebas de concepto basadas en IA en distintas modalidades (por ej., sobre conjuntos de datos, o    integradas en proyectos de software).
+* Comprendan las nociones básicas de la IA y sus aplicaciones,
+* Conozcan y experimenten con modelos, algoritmos, técnicas, y herramientas de IA, 
+* Diseñen soluciones y/o desarrollen pruebas de concepto basadas en IA en distintas modalidades (por ej., sobre conjuntos de datos, o    integradas en proyectos de software).
 * Entienda los fundamentos de la Inteligencia Artificial como el razonamiento lógico, el procesamiento de lenguajes, las redes neuronales, los algoritmos sobre grafos, y la representación de conocimiento.
+* Conozcan las limitaciones actuales de la Inteligencia Artificial, y puedan disernir las posibles aplicaciones de estas técnicas.
 
-Además se pretende que como parte de los cursos se pueda debatir sobre los alcances y limitaciones de la IA.
+Además se pretende que como parte de los cursos se pueda debatir sobre los alcances y desafios de la IA.
 
 ## Equipo docente
 Los docentes de la diplomatura son principalmente docentes del [Departamento de Computación de la UNRC](https://dc.exa.unrc.edu.ar/) en conjunto con profesores invitados. Los docentes del Departamento de Computación que participarán en la misma son:
@@ -46,7 +48,7 @@ Los docentes de la diplomatura son principalmente docentes del [Departamento de 
 
 ## La propuesta de la diplomatura
 
-La propuesta de la diplomatura puede encontrarse en el siguiente link: [Propuesta](/files/DiploIA.pdf)
+La propuesta de la diplomatura puede encontrarse en el siguiente link: [Propuesta](https://ia-unrc.github.io/files/DiploIA.pdf)
 
 ## Requisitos para la Inscripción
 
@@ -54,7 +56,7 @@ La diplomatura está destinada a personas que tengan *título universitario de g
 
 ## Costo de la diplomatura
 
-La diplomatura consta de 10 créditos, cada crédito tiene un costo de 100000AR$. Se otorgarán becas para algunos de los estudiantes, los cuales serán seleccionados por el comité academico en base a los antecedentes.
+La diplomatura consta de 20 créditos, el costo de cada crédito será determinado por el comité academico. Se otorgarán becas para algunos de los estudiantes, los cuales serán seleccionados por el comité academico en base a sus antecedentes.
 
 ## Fechas importantes.
 
@@ -62,4 +64,6 @@ La diplomatura consta de 10 créditos, cada crédito tiene un costo de 100000AR$
 * Selección de estudiantes por el comité académico: será anunciado
 * Inscripción en la diplomatura en la secretaría de posgrado: será anunciado
 
+## Contacto:
 
+Las preguntas sobre los costos, e informaciones adicionales sobre la propuesta, se pueden dirigir a diplo-ia@dc.exa.unrc.edu.ar
