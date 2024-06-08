@@ -7,7 +7,8 @@ Aquí puede encontrar información de la diplomatura, así como diferentes mater
 
 La Inteligencia Artificial como tal nació con los trabajos pioneros de Alan Turing (en teoría de la computación), Warren McCulloch y Walter Pitts (los primeros modelos de redes neuronales), y Marvin Minsky (creación de las primeras redes neuronales), entre otros. Desde ese momento hasta la actualidad diferentes tecnologías han sido desarrolladas, y utilizadas, para simular la inteligencia humana por medio de computadoras. En los últimos años estas técnicas han tenido un crecimiento notable de su popularidad y uso, a tal punto que la utilización de herramientas de IA se ha vuelto una práctica común en la sociedad actual. La presente propuesta pretende ofrecer una formación en las técnicas y fundamentos de Inteligencia Artificial, de tal forma que los estudiantes de la misma sean capaces de usar estas tecnologías en el ambito de la programación, así como también entender, y debatir, sobre sus alcances y limitaciones.
 
-### Titulo
+### Titulo 
+
 #### Diplomado Superior en Inteligencia Artificial
 
 ### Duración
@@ -52,7 +53,7 @@ La propuesta de la diplomatura puede encontrarse en el siguiente link: [Propuest
 
 ## Requisitos para la Inscripción
 
-La diplomatura está destinada a personas que tengan *título universitario de grado o de nivel superior no universitario*, de cuatro años de duración. En particular, se espera que aquellos que cursen la diplomatura posean conocimiento de informática, y tengan una base en programación. La primer cohorte tendrá un cupo de 20 estudiantes que serán seleccionados por el comité acádemico en base a la información brindada por los mismos
+La diplomatura está destinada a personas que tengan **título universitario de grado o de nivel superior no universitario**, de cuatro años de duración. En particular, se espera que aquellos que cursen la diplomatura posean conocimiento de informática, y tengan una base en programación. La primer cohorte tendrá un cupo de 30 estudiantes que serán seleccionados por el comité acádemico en base a la información brindada por los mismos
 
 ## Costo de la diplomatura
 
@@ -60,9 +61,9 @@ La diplomatura consta de 20 créditos, el costo de cada crédito será determina
 
 ## Fechas importantes.
 
-* Preinscripción: será anunciado
-* Selección de estudiantes por el comité académico: será anunciado
-* Inscripción en la diplomatura en la secretaría de posgrado: será anunciado
+* Preinscripción: **del 11 de julio al 25 de julio**
+* Selección de estudiantes por el comité académico: **del 1 de julio al 5 de julio**
+* Inscripción en la diplomatura en la secretaría de posgrado: **del 22 de julio al 2 de agosto**
 
 ## Contacto:
 
