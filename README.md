@@ -61,7 +61,7 @@ La diplomatura consta de 20 créditos, el costo de cada crédito será determina
 
 ## Fechas importantes.
 
-* Preinscripción: **del 11 de julio al 25 de julio**
+* Preinscripción: **del 11 de junio al 30 de junio**
 * Selección de estudiantes por el comité académico: **del 1 de julio al 5 de julio**
 * Inscripción en la diplomatura en la secretaría de posgrado: **del 22 de julio al 2 de agosto**
 
