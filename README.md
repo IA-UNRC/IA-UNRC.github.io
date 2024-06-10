@@ -12,9 +12,9 @@ La Inteligencia Artificial como tal nació con los trabajos pioneros de Alan Tur
 #### Diplomado Superior en Inteligencia Artificial
 
 ### Duración
-Consta de un total de 200 horas de cursado (20 créditos), 180 horas destinada a los cursos y 20 horas dedicadas al Trabajo Final.  Hay cinco cursos obligatorios y dos cursos optativos. La modalidad de la Diplomatura es principalmente virtual sincrónica con algunos encuentros presenciales físicos a definir durante el cursado.
+Consta de un total de 200 horas de cursado (10 créditos), 180 horas destinada a los cursos y 20 horas dedicadas al Trabajo Final.  Hay cinco cursos obligatorios y dos cursos optativos. La modalidad de la Diplomatura es principalmente virtual sincrónica con algunos encuentros presenciales físicos a definir durante el cursado.
 
-Los cursos  se dictarán entre septiembre del 2024 y julio 2024, preferentemente de forma virtual, los dias de cursados se acordarán con los docentes.  
+Los cursos  se dictarán entre septiembre del 2024 y julio 2025, preferentemente de forma virtual, los dias de cursados se acordarán con los docentes.  
 
 ### Inicio de la diplomatura
 
@@ -57,7 +57,7 @@ La diplomatura está destinada a personas que tengan **título universitario de 
 
 ## Costo de la diplomatura
 
-La diplomatura consta de 20 créditos, el costo de cada crédito será determinado por el comité academico. Se otorgarán becas para algunos de los estudiantes, los cuales serán seleccionados por el comité academico en base a sus antecedentes.
+La diplomatura consta de 10 créditos, el costo de cada crédito será determinado por el comité academico. Se otorgarán becas para algunos de los estudiantes, los cuales serán seleccionados por el comité academico en base a sus antecedentes.
 
 ## Fechas importantes.
 
