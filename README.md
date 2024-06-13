@@ -7,7 +7,7 @@ Aquí puede encontrar información de la diplomatura, así como diferentes mater
 
 La Inteligencia Artificial como tal nació con los trabajos pioneros de Alan Turing (en teoría de la computación), Warren McCulloch y Walter Pitts (los primeros modelos de redes neuronales), y Marvin Minsky (creación de las primeras redes neuronales), entre otros. Desde ese momento hasta la actualidad diferentes tecnologías han sido desarrolladas, y utilizadas, para simular la inteligencia humana por medio de computadoras. En los últimos años estas técnicas han tenido un crecimiento notable en su popularidad y uso, a tal punto que la utilización de herramientas de IA se ha vuelto una práctica común en la sociedad actual. La presente propuesta pretende ofrecer una formación en las técnicas y fundamentos de Inteligencia Artificial, de tal forma que los estudiantes de la misma sean capaces de usar estas tecnologías en el ambito de la programación, así como también entender, y debatir, sobre sus alcances y limitaciones.
 
-### Titulo 
+### Título 
 
 #### Diplomado Superior en Inteligencia Artificial
 
