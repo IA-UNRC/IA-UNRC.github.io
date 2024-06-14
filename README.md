@@ -67,4 +67,4 @@ La diplomatura consta de 10 créditos. El costo de cada crédito será determina
 
 ## Contacto:
 
-Las preguntas sobre los costos, e informaciones adicionales sobre la propuesta, se pueden dirigir a diplo-ia@dc.exa.unrc.edu.ar
+Las preguntas sobre los costos, e informaciones adicionales sobre la propuesta, se pueden dirigir a ia@dc.exa.unrc.edu.ar
