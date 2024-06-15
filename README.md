@@ -1,4 +1,4 @@
-# Diplomatura en Inteligencia Artificial
+# Diplomatura Superior en Inteligencia Artificial
 
 Este es el sitio principal de la diplomatura en Inteligencia Artificial dictada por el [Departamento de Computación](https://dc.exa.unrc.edu.ar/) -
 [FCEFQyN](https://www.exa.unrc.edu.ar/), de la [Universidad Nacional de Río Cuarto](https://www.unrc.edu.ar/), Argentina.
